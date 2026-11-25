@@ -1,0 +1,8 @@
+submission: 01a21169-e1cf-7371-b6da-a4ae09fdd553
+competition: u-kevin-the-tired-dark-lord-a-100-word-villain-58b4f3cb
+commit: 96243df5430c61cc70a01bd9006203ffdffd7e37
+codex sessions: 01a2110d-c86e-7711-8be2-666daf53f017 (init) + 01a2110e-1255-7411-85cb-76bda596e284 (build) — Codex 0.80.0 + gpt-6.1-sol via run-codex-old.py; astra 404
+bundle sha256: 76b2bce90b9ced295f84782d86dca4149813e00d09e2130a680f691079fc4569
+entry: 100 words / 502 chars (Edris, keeper of the worm's teeth)
+kit check: 16 passed / 0 failed / 5 skipped
+owner view 2026-11-25 ~13:40 WIB: stage submitted, grading queued
